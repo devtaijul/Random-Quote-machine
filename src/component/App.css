@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: rgb(46, 198, 233);
+}
+
+#quote-box {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  width: 600px;
+}
